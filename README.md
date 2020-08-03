@@ -15,4 +15,6 @@ cout<<"Third commit";
 cout<<"We wish to see the commits done by each developer";
 cout<<"In github";
 cout<<"SecondU just added 3 lines of code";
+cout<<"Line added by first user";
+cout<<"Total lines";
 
