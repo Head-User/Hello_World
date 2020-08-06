@@ -48,3 +48,6 @@ cout<<"SecondU just added 3 lines of code";
 cout<<"Line added by first user";
 cout<<"Total lines";
 cout<<"First line entered";;;
+cout<<"Line added by first user";
+cout<<"Total lines";
+cout<<"First line entered";;;
