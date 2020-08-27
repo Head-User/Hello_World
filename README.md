@@ -79,6 +79,9 @@ cout<<"Third commit";
 cout<<"1st commit";
 cout<<"Second commit";
 cout<<"Third commit";
+cout<<"1st commit";
+cout<<"Second commit";
+cout<<"Third commit";
 
 
 
