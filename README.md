@@ -76,6 +76,9 @@ cout<<"Project about extracting from GitHub repository"
 cout<<"1st commit";
 cout<<"Second commit";
 cout<<"Third commit";
+cout<<"1st commit";
+cout<<"Second commit";
+cout<<"Third commit";
 
 
 
