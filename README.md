@@ -76,15 +76,7 @@ cout<<"Project about extracting from GitHub repository"
 cout<<"1st commit";
 cout<<"Second commit";
 cout<<"Third commit";
-cout<<"We wish to see the commits done by each developer";
-cout<<"In github";
-cout<<"SecondU just added 3 lines of code";
-cout<<"Line added by first user";
-cout<<"1st commit";
-cout<<"Second commit";
 
-cout<<"SecondU just added 3 lines of code";
-cout<<"Line added by first user";
 
 
 
